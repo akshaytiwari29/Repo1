@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import com.mahesh.Calculator;
 
-public class CalculatorTest {
+public class CalculatorTest1 {
 
 	Calculator cal=new Calculator();
 	 @Test	
